@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "lol": "echo 'LOL'"
+    "host": "vite --host"
   },
   "dependencies": {
     "react": "^18.3.1",
